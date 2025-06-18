@@ -79,12 +79,12 @@ Gain 86% windows :
 ![img.png](img.png)
 
 ## Câblage
+Sortie Machine de la Speackeuse :
+- splitter HDMI -> OUTPUT 1 -> HDMI audio extractor audio/video (pour avoir le son de la machine sur nos hauts parleurs pour le public) -> raccorder le projecteur 
+- splitter HDMI -> OUTPUT 2 -> câble HDMI 10mètres vers la machine enregistreuse
 
+## Machine enregistreuse : dans OBS
 
-- HDMI audio extractor audio/video sortie entre la machine Speackeuse et le projecteur pour avoir le son de la machine sur nos hauts parleurs pour le public
-
-## Dans OBS
-
-- direction Machine enregistreuse : récupérer source audio/vidéo machine Speackeuse ( à tester dans OBS si le son de la machine vient avec !!!!!!!! )
-- direction Machine enregistreuse : source audio micro cravatte ( au pire record via Audacity )
-- direction Machine enregistreuse : vidéo caméra Speackeuse téléphone via caméra IP (non- obligatoire pour des raisons de qualité vidéo) -> clapper à la place et synchro au montage
+- récupérer source audio/vidéo machine Speackeuse ( à tester dans OBS si le son de la machine vient avec !!!!!!!! )
+- source audio micro cravatte ( au pire record via Audacity )
+- vidéo caméra Speackeuse téléphone via caméra IP (non- obligatoire pour des raisons de qualité vidéo) -> clapper à la place et synchro au montage
