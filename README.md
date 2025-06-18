@@ -1,14 +1,3 @@
-# Prise de son Rode central (Micros WireLessMe Rx/Tx)
-
-Start diagnostic sur les deux micros (RX/TX) pour les appairer façon flem
-
-![img_1.png](img_1.png)
-
-Gain 86% windows :
-
-![img.png](img.png)
-
-
 # Mode dégradé
 
 - Enregistrement vidéo par un téléphone 
@@ -19,7 +8,7 @@ Gain 86% windows :
 -> montage vidéo pour tout synchroniser
 
 
-# Matériel :
+## Matériel :
 
 - Rode WirelessME Rx et TX
 - rallonge 220V
@@ -28,6 +17,15 @@ Gain 86% windows :
 - Caméra ou téléphone
 - trepied adapté
 
+## Prise de son Rode central (Micros WireLessMe Rx/Tx)
+
+Start diagnostic sur les deux micros (RX/TX) pour les appairer façon flem
+
+![img_1.png](img_1.png)
+
+Gain 86% windows :
+
+![img.png](img.png)
 
 # Pas pour tout de suite (pistes streaming) :
 - split HDMI (pour récupérer les slides) & carte d'acquisition
