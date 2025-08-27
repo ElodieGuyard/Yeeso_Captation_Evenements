@@ -27,11 +27,6 @@ Gain 86% windows :
 
 ![img.png](img.png)
 
-# Pas pour tout de suite (pistes streaming) :
-- split HDMI (pour récupérer les slides) & carte d'acquisition
-- rallonge HDMI
-- capture des slides via OBS avec le split hdmi & carte d'acquisition hdmi OU capture via video conférence (internet)
-
 ## OBS
 
 - capture vidéo
@@ -86,4 +81,5 @@ Sortie Machine de la Speackeuse :
 - récupérer source audio/vidéo machine Speackeuse
 - source audio micro cravatte ( au pire record via Audacity )
 - vidéo caméra Speackeuse téléphone via caméra IP (non- obligatoire pour des raisons de qualité vidéo) -> clapper à la place et synchro au montage
+
 
